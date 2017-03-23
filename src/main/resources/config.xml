@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+    <user_name>
+        fallen
+    </user_name>
+
+    <user_age>
+        18
+    </user_age>
+
+    <is_happy>
+        false
+    </is_happy>
+
+    <salary>
+        100.101
+    </salary>
+
+    <loveless_java>
+        1000000000000000000000001
+    </loveless_java>
+</configuration>
